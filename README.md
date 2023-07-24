@@ -10,10 +10,11 @@
 * MySQL | Apache | Git | Github Actions | Google Cloud Platform
 * Professional Tutor/Teacher | Deep Learning Student
 ----
-- 🔭 I’m currently working on #WordPress block themes. The goal is to create multiple starter themes for small businesses.
-- 🌱 I’m currently learning cloud development and cloud infrastructure. I am curious: ``How can small businesses take advantage of cloud infrastructure to achieve their goals at affordable prices?`` Currently, I am learning the Google Cloud Platform (GCP).
-- 👯 I’m looking to collaborate on open-source and community-oriented projects. _*If there is an opportunity to contribute, I am open to collaborating on making cool stuff that helps others.*_
-- 💬 Let's chat about PHP, WordPress, small businesses, African heritage and culture, Reggae music, and cycling.
-- 📫 How to reach me: `francis.kanothe@gmail.com` | Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
-- ⚡ Fun fact: _*It’s impossible to hum while holding your nose*_.
+- I am currently working on building PHP web applications for small businesses.
+- I am learning cloud development and cloud infrastructure a specific problem in mind: ``How can small businesses in Africa and third-world countries take advantage of cloud infrastructure to achieve their goals at affordable prices?``
+- I am open to collaborating on open-source and community-oriented projects - _If there is an opportunity to contribute, I am open to collaborating on making cool stuff that helps others._
+- PHP, deep learning, small businesses, African heritage and culture, Reggae music, and cycling. I greatly enjoy the [Lex Fridman Podcast](https://www.youtube.com/c/lexfridman) due to its diverse topics, especially on Tech and AI.
+- Connect on Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
+
+ _*It’s impossible to hum while holding your nose*_.
 
