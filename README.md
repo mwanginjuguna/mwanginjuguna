@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Francis Njuguna.
 
 > A Fullstack Developer
+> ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16)
 
 ----
 ## Technologies
