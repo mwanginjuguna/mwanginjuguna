@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 ### Hi there 👋 I am Francis Njuguna.
 
 > A Fullstack Developer
