@@ -8,7 +8,7 @@
 * PHP | Laravel | WordPress
 * Javascript | jQuery | Vue.js | React.js | Node.js | express.js
 * MySQL | Apache | Git | Github Actions | Google Cloud Platform
-* Teamwork | Communication skills | Tutoring | 
+* Professional Tutor/Teacher | Deep Learning Student
 ----
 - 🔭 I’m currently working on #WordPress block themes. The goal is to create multiple starter themes for small businesses.
 - 🌱 I’m currently learning cloud development and cloud infrastructure. I am curious: ``How can small businesses take advantage of cloud infrastructure to achieve their goals at affordable prices?`` Currently, I am learning the Google Cloud Platform (GCP).
