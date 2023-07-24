@@ -1,8 +1,7 @@
-<div align="left">
-  ### Hello, 
-  # I am Francis Njuguna.
-  > A Fullstack Developer
-</div>
+### Hello, 
+# I am Francis Njuguna.
+> A Fullstack Developer
+
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
 ----
