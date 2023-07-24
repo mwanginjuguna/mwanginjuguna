@@ -1,5 +1,7 @@
 <div align="left">
-### Hi there 👋 I am Francis Njuguna.
+### Hello,
+  
+# I am Francis Njuguna.
 
 > A Fullstack Developer
 </div>
