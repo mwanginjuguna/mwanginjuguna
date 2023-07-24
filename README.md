@@ -1,4 +1,3 @@
-### Hello, 
 # I am Francis Njuguna.
 > A Fullstack Developer
 
