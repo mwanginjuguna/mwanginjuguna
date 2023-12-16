@@ -1,5 +1,5 @@
 # I am Francis Njuguna.
-> A Fullstack Developer
+> A Software Developer - _Backend web developer, ML engineer, Cloud Infrastructure_
 
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
