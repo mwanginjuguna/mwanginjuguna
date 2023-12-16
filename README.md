@@ -11,7 +11,7 @@
 * Machine Learning, Deep Learning, and AI Student
 ----
 
-- I am learning cloud development and cloud infrastructure with a specific challenge in mind: ``How can small businesses in Africa and third-world countries take advantage of cloud infrastructure to achieve their goals at affordable prices?``
+
 - Connect on Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
 
  _Fact: *It’s impossible to hum while holding your nose*_.
