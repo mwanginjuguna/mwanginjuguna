@@ -5,10 +5,12 @@
 
 ----
 ## Technologies
-* PHP - _Laravel, WordPress_ | Python - _Django, Web Scrapping, jupiter Notebooks, Automation Scripts, Data Analysis_ | C++
+* PHP - _Laravel, WordPress_
+* Python - _Django, Web Scrapping, jupiter Notebooks, Automation Scripts, Data Analysis_
+* C++
 * Javascript | jQuery | Vue.js | React.js | Node.js
 * SQL & MySQL | Apache | Git | Github Actions | Google Cloud Platform | AWS
-* Machine Learning, Deep Learning, and AI Student
+* ML, DL, and AI - Exploring communities, models, datasets, platforms, and libraries such as **Pytorch**, _[kaggle.com notebooks and competitions](https://kaggle.com/mkanothe/notebooks)/Colab_, and fastai.
 ----
 
 
