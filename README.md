@@ -19,6 +19,7 @@ I use:
 * Google Cloud Platform, AWS, & DigitalOcean for deployment
 
 I am exploring Deep Learning to understand the technology driving AI through communities, models, datasets, platforms, and libraries such as **Pytorch**, _[kaggle.com notebooks and competitions](https://kaggle.com/mkanothe/notebooks)/Colab_, and fastai.
+
 ----
 
 As an enterpreneur, I sell Websites, web applications, and landing page sripts at [mwangikanothe.com](https://mwangikanothe.com/).
