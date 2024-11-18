@@ -7,29 +7,15 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
-----
-## Technologies I Use
+- [Stuff I've made - Portfolio](https://mwanginjuguna.github.io/portfolio).
 
-* **PHP, Laravel, Livewire, and Javascript** frameworks to build websites and web applications.
-* **Python** to create automation scripts e.g. _Web Scrapping, jupiter Notebooks, Server Automation Scripts, Data Analytics, etc_
-* **React-Native** to build mobile applications.
-* **SQL & MySQL** for Database operations
-* **Git & Github** for version control
-* Google Cloud Platform, AWS, & DigitalOcean for deployment
-* Linux for server administration
-
-----
-
-- [Browse Portfolio Projects](https://mwanginjuguna.github.io/portfolio).
-
-- [Browse Blog Posts](https://mwanginjuguna.github.io/blog).
+- [Read Stuff I've written - Blog](https://mwanginjuguna.github.io/blog).
 
 - Connect on Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
-- Send an email: [francis.kanothe@gmail.com](mailto::francis.kanothe@gmail.com)
+- Shoot an email: [francis.kanothe@gmail.com](mailto::francis.kanothe@gmail.com)
 
- _Fact: *It’s impossible to hum while holding your nose*_.
+ _Remember: *It’s impossible to hum while holding your nose*_.
 
- 
-> I believe technology provides the greatest opportunity for communities to accelerate sustainable growth, set ambitious goals, and achieve great levels of growth. I hope to contribute towards such impactful use of technology among individuals and businesses.
+> **Believe. Then, BECOME!**
 
 
