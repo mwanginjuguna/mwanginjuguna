@@ -7,9 +7,9 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
-- [Stuff I've made - Portfolio](https://mwanginjuguna.github.io/portfolio).
+- [Stuff I've built - Portfolio](https://mwanginjuguna.github.io/portfolio).
 
-- [Read Stuff I've written - Blog](https://mwanginjuguna.github.io/blog).
+- [Stuff I've written - Blog](https://mwanginjuguna.github.io/blog).
 
 - Connect on Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
 - Shoot an email: [francis.kanothe@gmail.com](mailto::francis.kanothe@gmail.com)
