@@ -1,21 +1,17 @@
-# I am Francis Njuguna (Mwangi Kanothe).
+# I am Francis Njuguna.
 
-**I am passionate about TWO things: Building Software and Writing about stuff**.
-
-> - I build software for web and businesses. These include web applications, landing pages, websites, mobile apps, and automation scripts.
-> - I am a passionate writer and educator. I write blogs, technical guides, tutorials, and web content to teach and explain complex topics, breaking them down to bit-size actionable stuff.
+**I am a developer with a perculiar interest to ship software tools and cloud workflows all the time**.
 
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
-- [Stuff I've built - Portfolio](https://mwanginjuguna.github.io/portfolio).
+- [See my Profile & Portfolio](https://mwanginjuguna.github.io/portfolio).
 
-- [Stuff I've written - Blog](https://mwanginjuguna.github.io/blog).
+- [Read my Blog](https://mwanginjuguna.github.io/blog).
 
-- Connect on Twitter: [@mwangikanothe](https://twitter.com/mwangikanothe)
+- Connect on LinkedIn: [Francis](https://www.linkedin.com/in/francis-m-njuguna/)
+- Connect on X: [@mwangikanothe](https://x.com/mwangikanothe)
 - Shoot an email: [francis.kanothe@gmail.com](mailto::francis.kanothe@gmail.com)
 
- _Remember: *It’s impossible to hum while holding your nose*_.
-
-> **Believe. Then, BECOME!**
+> **PSALMS 119:105**
 
 
