@@ -4,7 +4,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=mwanginjuguna&color=84CC16) -->
 
-- [See my Profile & Portfolio](https://mwanginjuguna.github.io/portfolio).
+- [See my Profile & Portfolio](https://mwanginjuguna.github.io/profile).
 
 - [Read my Blog](https://mwanginjuguna.github.io/blog).
 
